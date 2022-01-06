@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kennedy Ramalho
 
-- 🔭 Hoje eu trabalho com desenvolvimento web ...
+- 🔭 Atualmente trabalho com desenvolvimento web ...
 - 🌱 Estudando PHP ...
 - 😄 Pronouns: Ele/Dele
 
@@ -18,6 +18,8 @@
   <img align="center" alt="Ken-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ken-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
   <img align="center" alt="Ken-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img align="center" alt="Ken-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
   </div>
   
   <div align="center"><br>
