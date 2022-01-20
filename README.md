@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Kennedy Ramalho
 
-- 🔭 Atualmente trabalho com desenvolvimento web ...
 - 🌱 Estudando PHP ...
 - 😄 Pronouns: Ele/Dele
 
