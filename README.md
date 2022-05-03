@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Kennedy Ramalho
 
 - 🌱 Estudando JavaScript ...
-- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/kennedyramalhosilva">
